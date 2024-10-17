@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.csc.ZipperTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2024-10-17T22:28:37" hostname="DESKTOP-H3UO8NH" time="0.035">
+  <properties/>
+  <testcase name="testBiggerFirstListOfString()" classname="com.csc.ZipperTest" time="0.02"/>
+  <testcase name="testMergedDoubleLists()" classname="com.csc.ZipperTest" time="0.001"/>
+  <testcase name="testBiggerSecondListOfString()" classname="com.csc.ZipperTest" time="0.002"/>
+  <testcase name="testMergedNumLists()" classname="com.csc.ZipperTest" time="0.001"/>
+  <testcase name="testFirstNumListBigger()" classname="com.csc.ZipperTest" time="0.001"/>
+  <testcase name="testListOfString()" classname="com.csc.ZipperTest" time="0.001"/>
+  <testcase name="testSecondNumListBigger()" classname="com.csc.ZipperTest" time="0.001"/>
+  <testcase name="itWorks()" classname="com.csc.ZipperTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
